@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hello, my name is Leonardo, a Software Engineering student and these are my ongoing projects.
+Feel free to ask anything related to my programming projects
+
+See you later !
+
 <!--
 **leoalvesjf/leoalvesjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
